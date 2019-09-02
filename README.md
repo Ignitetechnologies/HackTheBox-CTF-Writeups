@@ -1,4 +1,4 @@
-# Vulnhub-CTF-Writeups
+# HackTheBox CTF Writeups
 
 This cheasheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs. This list contains all the Hack The Box writeups available on hackingarticles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
 
