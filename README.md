@@ -93,3 +93,4 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Hack 
 | 83.	| [Waldo](https://www.hackingarticles.in/hack-the-box-waldo-walkthrough/)|Linux|Medium|
 | 84.	| [Ypuffy](https://www.hackingarticles.in/hack-the-box-ypuffy-walkthrough/)|Others|Medium|
 | 85.	| [Zipper](https://www.hackingarticles.in/hack-the-box-zipper-walkthrough/)|Linux|Hard|
+| 86. | [Luke](https://www.hackingarticles.in/hack-the-box-luke-walkthrough/)|Linux|Easy|
