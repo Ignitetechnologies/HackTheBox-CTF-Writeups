@@ -1,6 +1,6 @@
 # HackTheBox CTF Cheatsheet
 
-This cheasheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs on the basis of Operating System and Difficulty. This list contains all the Hack The Box writeups available on hackingarticles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
+This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs on the basis of Operating System and Difficulty. This list contains all the Hack The Box writeups available on hackingarticles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [1]: http://www.twitter.com/rajchandel
@@ -94,4 +94,4 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Hack 
 | 84.	| [Ypuffy](https://www.hackingarticles.in/hack-the-box-ypuffy-walkthrough/)|Others|Medium|
 | 85.	| [Zipper](https://www.hackingarticles.in/hack-the-box-zipper-walkthrough/)|Linux|Hard|
 | 86. | [Luke](https://www.hackingarticles.in/hack-the-box-luke-walkthrough/)|Linux|Easy|
-|87.  | [Baniston](https://www.hackingarticles.in/hack-the-box-challenge-baniston-walkthrough/)|Windows|Easy|
+|87.  | [Bastion](https://www.hackingarticles.in/hack-the-box-challenge-bastion-walkthrough/)|Windows|Easy|
