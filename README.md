@@ -94,4 +94,12 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 84.	| [Ypuffy](https://www.hackingarticles.in/hack-the-box-ypuffy-walkthrough/)|Others|Medium|
 | 85.	| [Zipper](https://www.hackingarticles.in/hack-the-box-zipper-walkthrough/)|Linux|Hard|
 | 86. | [Luke](https://www.hackingarticles.in/hack-the-box-luke-walkthrough/)|Linux|Easy|
-|87.  | [Bastion](https://www.hackingarticles.in/hack-the-box-challenge-bastion-walkthrough/)|Windows|Easy|
+| 87. | [Bastion](https://www.hackingarticles.in/hack-the-box-challenge-bastion-walkthrough/)|Windows|Easy|
+| 88. | [Heist](https://www.hackingarticles.in/hack-the-box-heist-walkthrough/)     | Windows | Medium |
+| 89. | [Bitlab](https://www.hackingarticles.in/hack-the-box-challenge-bitlab-walkthrough/)    | Linux   | Medium |
+| 90. | [Jarvis](https://www.hackingarticles.in/hack-the-box-jarvis-walkthrough/)   | Linux   | Medium |
+| 91. | [Writeup](https://www.hackingarticles.in/hack-the-box-writeup-walkthrough/)   | Linux   | Easy   |
+| 92. | [Networked](https://www.hackingarticles.in/hack-the-box-networked-walkthrough/) | Linux   | Medium |
+| 93. | [Haystack](https://www.hackingarticles.in/hack-the-box-haystack-walkthrough/)  | Linux   | Medium |
+| 94. | [Postman](https://www.hackingarticles.in/hack-the-box-postman-walkthrough/)   | Linux   | Easy   |
+| 95. | [Wall](https://www.hackingarticles.in/hack-the-box-wall-walkthrough/)| Linux   | Medium |
