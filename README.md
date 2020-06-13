@@ -103,3 +103,5 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 93. | [Haystack](https://www.hackingarticles.in/hack-the-box-haystack-walkthrough/)  | Linux   | Medium |
 | 94. | [Postman](https://www.hackingarticles.in/hack-the-box-postman-walkthrough/)   | Linux   | Easy   |
 | 95. | [Wall](https://www.hackingarticles.in/hack-the-box-wall-walkthrough/)| Linux   | Medium |
+| 96. | [Open Admin Box](https://www.hackingarticles.in/hack-the-box-open-admin-box-walkthrough/)| Linux   | Easy |
+| 97. | [Monteverde](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough/)| Windows  | Medium |
