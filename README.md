@@ -106,4 +106,5 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 96. | [Open Admin Box](https://www.hackingarticles.in/hack-the-box-open-admin-box-walkthrough/)| Linux   | Easy |
 | 97. | [Monteverde](https://www.hackingarticles.in/hack-the-box-monteverde-walkthrough/)| Windows  | Medium |
 | 98. | [Sauna](https://www.hackingarticles.in/hackthebox-sauna-walkthrough/)| Windows  | Easy |
-| 99. | [Conceal](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/)| Windows  | Easy |
+| 99. | [Conceal](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/)| Windows  | Hard |
+| 100. | [Tabby](https://www.hackingarticles.in/tabby-hackthebox-walkthrough/)| Linux  | Easy |
