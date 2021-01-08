@@ -108,3 +108,4 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 98. | [Sauna](https://www.hackingarticles.in/hackthebox-sauna-walkthrough/)| Windows  | Easy |
 | 99. | [Conceal](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/)| Windows  | Hard |
 | 100. | [Tabby](https://www.hackingarticles.in/tabby-hackthebox-walkthrough/)| Linux  | Easy |
+| 101. | [Doctor](https://shubham-singh.medium.com/doctor-htb-walkthrough-70bcb9eedefd/)| Linux | Easy  
