@@ -109,3 +109,5 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 99. | [Conceal](https://www.hackingarticles.in/conceal-hackthebox-walkthrough/)| Windows  | Hard |
 | 100. | [Tabby](https://www.hackingarticles.in/tabby-hackthebox-walkthrough/)| Linux  | Easy |
 | 101. | [Omni](https://www.hackingarticles.in/omni-hackthebox-walkthrough/)| Windows  | Easy |
+| 102. | [Mango](https://www.hackingarticles.in/mango-hackthebox-walkthrough/)| Linux  | Medium |
+| 103. | [Servmon](https://www.hackingarticles.in/servmon-hackthebox-walkthrough/)| Windows  | Medium |
