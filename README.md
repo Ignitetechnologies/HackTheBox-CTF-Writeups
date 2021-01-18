@@ -111,3 +111,6 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 101. | [Omni](https://www.hackingarticles.in/omni-hackthebox-walkthrough/)| Windows  | Easy |
 | 102. | [Mango](https://www.hackingarticles.in/mango-hackthebox-walkthrough/)| Linux  | Medium |
 | 103. | [Servmon](https://www.hackingarticles.in/servmon-hackthebox-walkthrough/)| Windows  | Easy |
+| 104. | [Bastard](https://www.hackingarticles.in/bastard-hackthebox-walkthrough/)| Windows  | Medium |
+| 105. | [Cascade](https://www.hackingarticles.in/cascade-hackthebox-walkthrough/)| Windows  | Medium |
+
