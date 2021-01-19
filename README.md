@@ -113,4 +113,5 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 103. | [Servmon](https://www.hackingarticles.in/servmon-hackthebox-walkthrough/)| Windows  | Easy |
 | 104. | [Bastard](https://www.hackingarticles.in/bastard-hackthebox-walkthrough/)| Windows  | Medium |
 | 105. | [Cascade](https://www.hackingarticles.in/cascade-hackthebox-walkthrough/)| Windows  | Medium |
+| 106. | [Traverxec](https://www.hackingarticles.in/traverxec-hackthebox-walkthrough/)| Linux  | Easy |
 
