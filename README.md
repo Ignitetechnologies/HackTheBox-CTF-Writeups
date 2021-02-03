@@ -116,4 +116,5 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 106. | [Traverxec](https://www.hackingarticles.in/traverxec-hackthebox-walkthrough/)| Linux  | Easy |
 | 107. | [Forest](https://www.hackingarticles.in/forest-hackthebox-walkthrough/)| Windows  | Easy |
 | 108. | [Admirer](https://www.hackingarticles.in/admirer-hackthebox-walkthrough/)| Linux  | Easy |
+| 109. | [Blunder](https://www.hackingarticles.in/blunder-hackthebox-walkthrough/)| Linux  | Easy |
 
