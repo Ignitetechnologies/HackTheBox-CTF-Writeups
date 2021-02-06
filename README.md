@@ -118,5 +118,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 108. | [Admirer](https://www.hackingarticles.in/admirer-hackthebox-walkthrough/)| Linux  | Easy |
 | 109. | [Blunder](https://www.hackingarticles.in/blunder-hackthebox-walkthrough/)| Linux  | Easy |
 | 110. | [SwagShop](https://www.hackingarticles.in/swagshop-hackthebox-walkthrough/)| Linux  | Easy |
+| 111. | [Doctor](https://www.hackingarticles.in/doctor-hackthebox-walkthrough/)| Linux  | Easy |
+
 
 
