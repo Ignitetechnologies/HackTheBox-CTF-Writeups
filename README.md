@@ -120,6 +120,8 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 110. | [SwagShop](https://www.hackingarticles.in/swagshop-hackthebox-walkthrough/)| Linux  | Easy |
 | 111. | [Doctor](https://www.hackingarticles.in/doctor-hackthebox-walkthrough/)| Linux  | Easy |
 | 112. | [Fuse](https://www.hackingarticles.in/fuse-hackthebox-walkthrough/)| Windows  | Medium |
+| 113. | [LaCasaDePapel](https://www.hackingarticles.in/lacasadepapel-hackthebox-walkthrough/)| Linux  | Easy |
+| 114. | [Magic](https://www.hackingarticles.in/magic-hackthebox-walkthrough/)| Linux  | Medium |
 
 
 
