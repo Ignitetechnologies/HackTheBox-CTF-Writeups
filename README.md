@@ -122,7 +122,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 112. | [Fuse](https://www.hackingarticles.in/fuse-hackthebox-walkthrough/)| Windows  | Medium |
 | 113. | [LaCasaDePapel](https://www.hackingarticles.in/lacasadepapel-hackthebox-walkthrough/)| Linux  | Easy |
 | 114. | [Magic](https://www.hackingarticles.in/magic-hackthebox-walkthrough/)| Linux  | Medium |
-| 115. | [Traceback](https://www.hackingarticles.in/traceback-hackthebox-walkthrough/)| Linux  | Medium |
+| 115. | [Traceback](https://www.hackingarticles.in/traceback-hackthebox-walkthrough/)| Linux  | Easy |
 
 
 
