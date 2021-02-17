@@ -125,6 +125,9 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 115. | [Traceback](https://www.hackingarticles.in/traceback-hackthebox-walkthrough/)| Linux  | Easy |
 | 116. | [Remote](https://www.hackingarticles.in/remote-hackthebox-walkthrough/)| Windows  | Easy |
 | 117. | [Book](https://www.hackingarticles.in/book-hackthebox-walkthrough/)| Linux  | Medium |
+| 118. | [Cache](https://www.hackingarticles.in/cache-hackthebox-walkthrough/)| Linux  | Medium |
+| 119. | [OpenKeyS](https://www.hackingarticles.in/openkeys-hackthebox-walkthrough/)| Open Bsd  | Medium |
+
 
 
 
