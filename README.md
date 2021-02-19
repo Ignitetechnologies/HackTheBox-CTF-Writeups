@@ -128,6 +128,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 118. | [Cache](https://www.hackingarticles.in/cache-hackthebox-walkthrough/)| Linux  | Medium |
 | 119. | [OpenKeyS](https://www.hackingarticles.in/openkeys-hackthebox-walkthrough/)| OpenBSD  | Medium |
 | 120. | [Chaos](https://www.hackingarticles.in/chaos-hackthebox-walkthrough/)| Linux  | Medium |
+| 121. | [Querier](https://www.hackingarticles.in/querier-hackthebox-walkthrough/)| Windows  | Medium |
 
 
 
