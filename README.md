@@ -132,6 +132,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 122. | [Sniper](https://www.hackingarticles.in/sniper-hackthebox-walkthrough/)| Windows  | Medium |
 | 123. | [Resolute](https://www.hackingarticles.in/resolute-hackthebox-walkthrough/)| Windows  | Medium |
 | 124. | [SneakyMailer](https://www.hackingarticles.in/sneakymailer-hackthebox-walkthrough/)| Linux  | Medium |
+| 125. | [Nest](https://www.hackingarticles.in/nest-hackthebox-walkthrough/)| Windows  | Easy |
 
 
 
