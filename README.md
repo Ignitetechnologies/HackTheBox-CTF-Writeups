@@ -134,8 +134,5 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 124. | [SneakyMailer](https://www.hackingarticles.in/sneakymailer-hackthebox-walkthrough/)| Linux  | Medium |
 | 125. | [Nest](https://www.hackingarticles.in/nest-hackthebox-walkthrough/)| Windows  | Easy |
 | 126. | [Jewel](https://www.hackingarticles.in/jewel-hackthebox-walkthrough/)| Linux  | Medium |
-
-
-
-
+| 127. | [Academy](https://www.hackingarticles.in/academy-hackthebox-walkthrough/)| Linux  | Medium |
 
