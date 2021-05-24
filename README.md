@@ -137,6 +137,6 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 127. | [Academy](https://www.hackingarticles.in/academy-hackthebox-walkthrough/)| Linux  | Medium |
 | 128. | [Passage](https://www.hackingarticles.in/passage-hackthebox-walkthrough/)| Linux  | Medium |
 | 129. | [Worker](https://www.hackingarticles.in/worker-hackthebox-walkthrough/)| Windows  | Medium |
-| 130. | [Delivery](https://www.hackingarticles.in/delivery-hackthebox-walkthrough/)| Windows  | Medium |
+| 130. | [Delivery](https://www.hackingarticles.in/delivery-hackthebox-walkthrough/)| Linux  | Medium |
 
 
