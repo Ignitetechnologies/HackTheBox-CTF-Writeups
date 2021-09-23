@@ -142,5 +142,6 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 132. | [Ready](https://www.hackingarticles.in/ready-hackthebox-walkthrough/)| Linux  | Medium |
 | 133. | [Laboratory](https://www.hackingarticles.in/laboratory-hackthebox-walkthrough/)| Linux  | Easy |
 | 134. | [Luanne](https://www.hackingarticles.in/luanne-hackthebox-walkthrough/)| OpenBSD  | Easy |
+| 135. | [Scriptkiddie](https://www.hackingarticles.in/scriptkiddie-hackthebox-walkthrough/)| Linux | Easy |
 
 
