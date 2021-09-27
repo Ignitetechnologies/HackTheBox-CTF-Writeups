@@ -143,5 +143,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 133. | [Laboratory](https://www.hackingarticles.in/laboratory-hackthebox-walkthrough/)| Linux  | Easy |
 | 134. | [Luanne](https://www.hackingarticles.in/luanne-hackthebox-walkthrough/)| OpenBSD  | Easy |
 | 135. | [Scriptkiddie](https://www.hackingarticles.in/scriptkiddie-hackthebox-walkthrough/)| Linux | Easy |
+| 136. | [Knife](https://www.hackingarticles.in/knife-hackthebox-walkthrough/)| Linux | Easy |
+
 
 
