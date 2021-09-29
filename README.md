@@ -145,6 +145,8 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 135. | [Scriptkiddie](https://www.hackingarticles.in/scriptkiddie-hackthebox-walkthrough/)| Linux | Easy |
 | 136. | [Knife](https://www.hackingarticles.in/knife-hackthebox-walkthrough/)| Linux | Easy |
 | 137. | [Spectra](https://www.hackingarticles.in/spectra-hackthebox-walkthrough/)| Linux | Easy |
+| 138. | [Love](https://www.hackingarticles.in/love-hackthebox-walkthrough/)| Windows | Easy |
+
 
 
 
