@@ -147,6 +147,8 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 137. | [Spectra](https://www.hackingarticles.in/spectra-hackthebox-walkthrough/)| Linux | Easy |
 | 138. | [Love](https://www.hackingarticles.in/love-hackthebox-walkthrough/)| Windows | Easy |
 | 139. | [Cap](https://www.hackingarticles.in/cap-hackthebox-walkthrough/)| Linux | Easy |
+| 140. | [Armageddon](https://www.hackingarticles.in/armageddon-hackthebox-walkthrough/)| Linux | Medium |
+
 
 
 
