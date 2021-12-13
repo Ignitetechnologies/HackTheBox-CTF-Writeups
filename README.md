@@ -150,6 +150,8 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 140. | [Armageddon](https://www.hackingarticles.in/armageddon-hackthebox-walkthrough/)| Linux | Medium |
 | 141. | [TheNotebook](https://www.hackingarticles.in/thenotebook-hackthebox-walkthrough/)| Linux | Medium |
 | 142. | [Explore](https://www.hackingarticles.in/explore-hackthebox-walkthrough/)| Linux | Easy |
+| 143. | [Seal](https://www.hackingarticles.in/seal-hackthebox-walkthrough/)| Linux | Medium |
+
 
 
 
