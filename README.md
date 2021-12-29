@@ -151,6 +151,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 141. | [TheNotebook](https://www.hackingarticles.in/thenotebook-hackthebox-walkthrough/)| Linux | Medium |
 | 142. | [Explore](https://www.hackingarticles.in/explore-hackthebox-walkthrough/)| Linux | Easy |
 | 143. | [Seal](https://www.hackingarticles.in/seal-hackthebox-walkthrough/)| Linux | Medium |
+| 144. | [BountyHunter](https://www.hackingarticles.in/bounty-hunter-hackthebox-walkthrough/)| Easy | Medium |
 
 
 
