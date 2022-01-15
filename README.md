@@ -153,6 +153,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 143. | [Seal](https://www.hackingarticles.in/seal-hackthebox-walkthrough/)| Linux | Medium |
 | 144. | [BountyHunter](https://www.hackingarticles.in/bounty-hunter-hackthebox-walkthrough/)| Linux | Medium |
 | 145. | [PIT](https://www.hackingarticles.in/pit-hackthebox-walkthrough/)| Linux | Medium |
+| 146. | Toolbox](https://www.hackingarticles.in/hackthebox-toolbox-walkthrough/)| Linux | Medium |
 
 
 
