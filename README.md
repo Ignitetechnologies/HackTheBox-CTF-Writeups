@@ -156,4 +156,5 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 146. | [Toolbox](https://www.hackingarticles.in/hackthebox-toolbox-walkthrough/)| Linux | Medium |
 | 147. | [Previse](https://www.hackingarticles.in/previse-hackthebox-walkthrough/)| Linux | Easy |
 | 148. | [Writer](https://www.hackingarticles.in/writer-hackthebox-walkthrough/)| Linux | Medium |
+| 149. | [Intelligence](https://www.hackingarticles.in/intelligence-hackthebox-walkthrough/)| Linux | Medium |
 
