@@ -159,4 +159,5 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Hack
 | 149. | [Intelligence](https://www.hackingarticles.in/intelligence-hackthebox-walkthrough/)| Linux | Medium |
 | 150. | [Forge](https://www.hackingarticles.in/forge-hackthebox-walkthrough/)| Linux | Medium |
 | 151. | [Anubis](https://www.hackingarticles.in/anubis-hackthebox-walkthrough/)| Linux | Insane |
+| 152. | [Horizontall](https://www.hackingarticles.in/horizontall-hackthebox-walkthrough/)| Linux | Easy |
 
