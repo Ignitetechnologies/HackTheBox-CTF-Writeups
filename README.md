@@ -167,4 +167,4 @@ This cheatsheet is aimed at CTF players and beginners to help them sort Hack The
 | 151. | [Anubis](https://www.hackingarticles.in/anubis-hackthebox-walkthrough/)| Linux | Insane |
 | 152. | [Horizontall](https://www.hackingarticles.in/horizontall-hackthebox-walkthrough/)| Linux | Easy |
 | 153. | [Return](https://www.hackingarticles.in/return-hackthebox-walkthrough/)| Windows | Easy |
-
+| 154. | [Timelapse](https://www.hackingarticles.in/timelapse-hackthebox-walkthrough/)| Windows | Easy |
