@@ -171,3 +171,4 @@ This cheatsheet is aimed at CTF players and beginners to help them sort Hack The
 | 155. | [Driver](https://www.hackingarticles.in/driver-hackthebox-walkthrough/)| Windows | Easy |
 | 156. | [Pandora](https://www.hackingarticles.in/pandora-hackthebox-walkthrough/)| Linux | Easy |
 | 157. | [Paper](https://www.hackingarticles.in/paper-hackthebox-walkthrough/)| Linux | Easy |
+| 158. | [Goodgames](https://www.hackingarticles.in/goodgames-hackthebox-walkthrough//)| Linux | Easy |
