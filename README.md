@@ -174,3 +174,4 @@ This cheatsheet is aimed at CTF players and beginners to help them sort Hack The
 | 158. | [Goodgames](https://www.hackingarticles.in/goodgames-hackthebox-walkthrough/)| Linux | Easy |
 | 159. | [Backdoor](https://www.hackingarticles.in/backdoor-hackthebox-walkthrough/)| Linux | Easy |
 | 160. | [Late](https://www.hackingarticles.in/late-hackthebox-walkthrough/)| Linux | Easy |
+| 161. | [Nunchucks](https://www.hackingarticles.in/nunchucks-hackthebox-walkthrough/)| Linux | Easy |
