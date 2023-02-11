@@ -10,7 +10,7 @@ This cheatsheet is aimed at CTF players and beginners to help them sort Hack The
 [1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
 
-![image](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups/blob/master/htb.png?raw=true)
+![image](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups/blob/master/HTB1.png?raw=true)
 
 | No. | Machine Name | Operating System | Difficulty |
 |-----|--------------|------------------|------------------|
