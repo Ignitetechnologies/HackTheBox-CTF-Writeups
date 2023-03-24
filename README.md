@@ -176,3 +176,4 @@ This cheatsheet is aimed at CTF players and beginners to help them sort Hack The
 | 160. | [Late](https://www.hackingarticles.in/late-hackthebox-walkthrough/)| Linux | Easy |
 | 161. | [Nunchucks](https://www.hackingarticles.in/nunchucks-hackthebox-walkthrough/)| Linux | Easy |
 | 162. | [Antique](https://www.hackingarticles.in/antique-hackthebox-walkthrough/)| Linux | Easy |
+| 163. | [Blackfield](https://www.hackingarticles.in/blackfield-hackthebox-walkthrough/)| Linux | Hard |
